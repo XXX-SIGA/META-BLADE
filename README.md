@@ -15,12 +15,12 @@
        $ pip install mechanize
        $ pip install bs4
        $ pip install rich
-       $ git clone https://github.com/XXX-SIGA/META-BLADE
+       $ git clone https://github.com/XXX-SIGA/META-WHOAMI-FBX
        
 
 <h3 align="left">Cara Menjalankan Script:</h3>
 
-       $ cd META-BLADE
+       $ cd WHOAMI-FBX
        $ git pull
        $ python meta-fb.py
 
